@@ -1,0 +1,17 @@
+Delta-KRYK MK3 (V3.3 set) - Elegoo Neptune 4 Max, 0.4 mm, PETG
+Plate files print in order A1..A5; OPT = optional MKS PWC/DET parts.
+Each part name carries its quantity (e.g. 6x_Bearing_holder = 6 pieces); total 93 pieces.
+NOT included: effector + diffusers + hotend mount (hotend type undecided), V3/V3.1/V3.2 frames, Arm V3/V3.1,
+Arm V3 top, NEMA17 mount V3, gearbox center for measurements, central hub 29 mm.
+
+Plate A1: 1x one-piece_gearbox_frame_V3.3
+
+Plate A2: 1x Control_plate_box_V1.1, 1x Arm_V3.3, 1x Box_for_drivers_extension_plates_V1, 1x display_box_coverTFT35_V1, 1x MKS_SBASE_holder, 2x Disk_for_Arm_V3.3, 1x hotend_wire_ring
+
+Plate A3: 2x Arm_V3.3, 1x Display_box_mount_V1, 1x arm_lock_left, 1x arm_belt_retainer
+
+Plate A4: 1x NEMA17_mount_V3.1, 1x arms_adjustment_plate_(big), 1x Control_plate_box_cover_no_fan, 1x display_boxTFT35_V1, 1x arm_lock_left, 1x printable_M8_nut
+
+Plate A5: 1x arms_adjustment_plate_(small), 1x MKS_SBASE_holder, 1x Disk_for_Arm_V3.3, 1x filament_sensor_mount_pt_1, 1x central_hub_for_gearbox_installation_30mm, 6x shaft_mount_for_one-piece_gearbox_frame_V3.5, 2x filament_spool_holder_bottom_front, 2x filament_spool_holder_bottom_back, 2x filament_spool_holder_top, 6x Bearing_holder_for_V3.3_gearbox_frame, 1x filament_sensor_mount_pt_2, 3x stop_for_limit_switch_V2, 1x arm_lock_left, 3x arm_lock_right, 6x External_shaft_lock, 4x adjustment_wheel_for_bed, 3x adjustment_wheel_for_endstops_V2, 5x printable_M8_nut, 3x arm_bearings_spacer, 2x arm_belt_retainer, 6x spacer_for_tensioner, 9x Disk_locks_for_Arm_v3.3
+
+Plate OPT: 1x MKS_PWC__MKS_DET_box, 1x MKS_PWC__MKS_DET_box_cover, 1x MKS_PWC_mount, 1x MKS_DET_mount
